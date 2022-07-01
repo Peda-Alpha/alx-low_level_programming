@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+/**
+ *
+ * main - Entry point
+ *
+ * Return: Always 0
+ */
+int main(void)
+{
+  int 
+  printf("Size of char: %d byte(s)", str);
+  printf("Size of char: %d byte(s)", str);
+  printf("Size of char: %d byte(s)", str);
+  printf("Size of char: %d byte(s)", str);
+  printf("Size of char: %d byte(s)", str);
+}
