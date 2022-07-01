@@ -7,17 +7,18 @@
  * Return: Always 0
  */
 int main(void)
-{
-char a;
-int b;
-long int c;
-long long int d;
-float f;
   
-printf("Size of char: %d byte(s)", sizeof(a));
-printf("Size of char: %d byte(s)", sizeof(b));
-printf("Size of char: %d byte(s)", sizeof(c));
-printf("Size of char: %d byte(s)", sizeof(d));
-printf("Size of char: %d byte(s)", sizeof(f));
+char b;
+int c;
+long int d;
+long long int e;
+float f;
+
+{
+printf("Size of char: %d byte(s)\n", sizeof(b));
+printf("Size of int: %d byte(s)\n", sizeof(c));
+printf("Size of long int: %d byte(s)\n", sizeof(d));
+printf("Size of long long int: %d byte(s)\n", sizeof(e));
+ printf("Size of float: %d byte(s)\n", sizeof(f));
 return (0);
 }
