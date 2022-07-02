@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*
-*more headers goes there
-*
+/**
 *main - Entry point
+*Description: Assign a random number to a variable
+*And if it is positive, negative or zero
+*Return: 0
 *
-*Return: Always 0
-*
-*betty style doc for function main goes there
+*betty style doc for function main goes down there
 */
 int main(void)
 {
