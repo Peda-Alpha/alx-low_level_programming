@@ -2,15 +2,16 @@
 /**
  *main - Entry point
  *Description: Print all single digit numbers of base 10
- *All code should be in the main function
+ *Start from 0
+ *Do not use variable of type char
  *Return: 0
  */
 int main(void)
 {
-int X;
-for (X = '0'; X <= '9'; X++)
+int x;
+for (x = '0'; x <= '9'; x++)
 {
-printf("%d", X);
+putchar(x);
 }
 putchar('\n');
 return (0);
