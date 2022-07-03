@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- *main - Entry point
- *Description: Print all single digit numbers of base 10
- *All code should be in the main function
- *Return: 0
+ * main - Entry point
+ * Description: Print all single digit numbers of base 10
+ * Start from 0
+ * All code should be in the main function
+ * Return: 0
  */
 int main(void)
 {
