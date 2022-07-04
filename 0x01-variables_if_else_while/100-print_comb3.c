@@ -24,7 +24,7 @@ continue;
 }
 putchar(x);
 putchar (z);
-if (x == '8' && z =='9')
+if (x == '8' && z == '9')
 {
 break;
 }
