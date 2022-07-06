@@ -5,17 +5,17 @@
  * It should be followed by a new line
  * Return: 0
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int x;
 	int z;
 
-	for (x < 11)
+	for (x = 1; x < 11; x++)
 	{
 	for (z = 'a'; z <= 'z'; z++)
 	{
 	_putchar(z);
 	}
-	putchar('\n');
-	return (0);
+	_putchar('\n');
+	}
 }
