@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - _putchar prototype
+ * print_alphabet_x10 - _putchar prototype
  * Description: Print 10 times the alphabet in lowercase
  * It should be followed by a new line
  * Return: 0
