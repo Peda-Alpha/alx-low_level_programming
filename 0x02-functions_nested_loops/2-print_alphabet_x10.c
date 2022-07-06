@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  * main - _putchar prototype
  * Description: Print 10 times the alphabet in lowercase
