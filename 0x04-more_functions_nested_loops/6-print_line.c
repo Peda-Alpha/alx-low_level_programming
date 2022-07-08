@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_diagonal - Function prototype
+ * print_line - Function prototype
  * Description: Draws a straight line in the terminal
  * The line should end with a new line
  * If n is 0 or less, the function should only print a new line
