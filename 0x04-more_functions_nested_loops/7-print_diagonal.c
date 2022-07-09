@@ -23,9 +23,13 @@ void print_diagonal(int n)
 			for (z = 1; z <= x; z++)
 			{
 				if (z != x)
+				{
 					_putchar(' ');
+				}
 				else
+				{
 					_putchar('\\');
+				}
 			}
 			_putchar('\n');
 		}
