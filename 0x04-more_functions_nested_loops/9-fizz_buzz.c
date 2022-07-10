@@ -8,6 +8,7 @@
  * For multiples of five (5), print buzz
  * For numbers which are multiples of both (3) and (5), print fizzbuzz
  * Each number or word should be separated by a space
+ * Return: Always 0
  */
 int main(void)
 {
@@ -19,7 +20,7 @@ int main(void)
 
 		if (x % 3 == 0 || x % 5 == 0)
 		{
-			if (x % 3 ==0)
+			if (x % 3 == 0)
 			printf("Fizz");
 				if (x % 5 == 0)
 				printf("Buzz");
