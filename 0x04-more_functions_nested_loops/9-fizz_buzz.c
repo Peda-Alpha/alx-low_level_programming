@@ -13,8 +13,11 @@
 int main(void)
 {
 	int x;
+	x = 1;
 
-	for (x = 1; x <= 100; x++)
+	printf(x);
+
+	for (x = 2; x <= 100; x++)
 	{
 		printf(" ");
 
