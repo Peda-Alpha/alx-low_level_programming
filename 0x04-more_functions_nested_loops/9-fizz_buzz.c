@@ -13,9 +13,9 @@
 int main(void)
 {
 	int x;
-	x = 1;
 
-	printf(x);
+	x = 1;
+	printf("%d", x);
 
 	for (x = 2; x <= 100; x++)
 	{
